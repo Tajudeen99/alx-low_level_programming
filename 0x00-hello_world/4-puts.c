@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-  *main - Print
+  *main - This is a return type integer value
   *
-Return: Always 0 (Sucessful)
+Return: 0 (if there is no error)
 */
 int main(void)
 {
