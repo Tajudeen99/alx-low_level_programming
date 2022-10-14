@@ -1,5 +1,5 @@
 #!/bin/bash
-#include <stdion.h>
+#include <stdio.h>
 
 /**
   *main - Print size is not grandeur
