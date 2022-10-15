@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 
 /**
@@ -13,3 +12,4 @@ int main(void)
 	long int c;
 	long long int d;
 	float e;
+}
