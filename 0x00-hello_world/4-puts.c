@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main - It prints the passed string with a newline and returns an integer value
+ *main - It prints the string with a newline and returns an integer value
  *
  Return: Returns 0, if successful
  */
