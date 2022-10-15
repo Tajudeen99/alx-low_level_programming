@@ -3,7 +3,7 @@
 /**
   *main - This is a return type integer value
   *
-Return: 0 (if there is no error)
+Return: Return 0, if successful
 */
 int main(void)
 {
