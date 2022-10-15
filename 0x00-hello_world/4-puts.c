@@ -3,7 +3,7 @@
 /**
  *main - It prints the string with a newline and returns an integer value
  *
- Return: 0 if successful
+ *Return: 0 if successful
  */
 
 int main(void)
