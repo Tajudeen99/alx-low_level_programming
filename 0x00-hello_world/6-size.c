@@ -3,7 +3,7 @@
 /**
   *main - Print size is not grandeur
   *
-Return: Always 0 (Sucessful)
+Return 0, if successful
 */
 int main(void)
 {
@@ -12,4 +12,6 @@ int main(void)
 	long int c;
 	long long int d;
 	float e;
+
+return (0);
 }
