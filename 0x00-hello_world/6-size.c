@@ -1,10 +1,13 @@
 #include <stdio.h>
 
 /**
- *main - Print the sizes of variables
  *
- Return - 0 if successfull
-*/
+ * main - Program that prints the size of various types
+ *
+ * Return: Always 0.
+ *
+ */
+
 int main(void)
 {
 	printf("Size of a char: %zu byte(s)\n", sizeof(char));
