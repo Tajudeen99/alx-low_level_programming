@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Program to assign a random number to variable
- * Return: 0
+ * Return: Always 0
  */
 int main(void)
 {
