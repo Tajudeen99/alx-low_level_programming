@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
-  * main - Print a combinations of number
+  * main - Print all possible combinations of two-digit numbers
   * Return : return 0 it successful
   */
 
@@ -23,7 +23,7 @@ int main(void)
 				putchar((j % 10) + 48);
 				if (i != 98 || j != 99)
 				{
-					putchar('.');
+					putchar(',');
 					putchar(' ');
 				}
 			}
