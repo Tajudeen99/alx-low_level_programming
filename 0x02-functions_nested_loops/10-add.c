@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * add - add two numbers together
+ * add - add two integers together
  * @a: one argument
  * @b: another argument to be added
  * Return: returns 0 if successful
