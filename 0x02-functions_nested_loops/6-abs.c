@@ -2,8 +2,8 @@
 #include <stdio.h>
 /**
  * _abs - computes the absolute value of an integer
- * @n: THe int to be operated upon
- * Return: returns an unsigneed int value to calling function
+ * @n: The int to be operated upon
+ * Return: returns an unsigned int value to function
  */
 int _abs(int n)
 {
