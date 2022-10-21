@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_numbers - prints_most_numbers 0 to 9
+ * print_most_numbers - prints numbers
  */
 
 void print_most_numbers(void)
