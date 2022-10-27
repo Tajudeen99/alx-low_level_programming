@@ -1,6 +1,7 @@
 #include "main.h"
+
 /**
- * _strncpy - copies a string
+ * _strncpy - Copy a string
  * @dest: Pointer to a character that will be changed
  * @src: Pointer to a character that will be changed
  * @n: value
