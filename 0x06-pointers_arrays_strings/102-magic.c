@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/**
-  * main - Function returns a pointer to the result
-  * return : Always 0
-  */
-
 int main(void)
 {
 	int n;
