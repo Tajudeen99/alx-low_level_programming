@@ -3,9 +3,10 @@
 #include <time.h>
 
 /**
-  * main - Print the last digit of number stored in variable
-  * Return : Always 0
-  */
+ * main - return the last digit of a randomly generated no.
+ * Return: returns 0(successful)
+ */
+
 int main(void)
 {
 	int n;
